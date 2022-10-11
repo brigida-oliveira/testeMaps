@@ -83,7 +83,7 @@ class MapsActivity : AppCompatActivity(), OnMapReadyCallback {
         val markerOptions = MarkerOptions().position(latLng).title("Localização atual")
 
         googleMap.animateCamera(CameraUpdateFactory.newLatLng(latLng))
-        googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 7f))
+        googleMap.animateCamera(CameraUpdateFactory.newLatLngZoom(latLng, 12f))
         googleMap.addMarker(markerOptions)
     }
 }

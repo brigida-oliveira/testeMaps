@@ -1,4 +1,10 @@
 <resources>
     <string name="app_name">Teste do GoogleMaps</string>
     <string name="title_activity_maps">MapsActivity</string>
+    <string name="title_activity_new_maps">NewMapsActivity</string>
+    <string name="pulcinella">Pulcinella (restaurante italiano)</string>
+    <string name="emporio_delitalia">Empório Delitalia (padaria)</string>
+    <string name="costa_mendes_aldeota">Costa Mendes Aldeota (padaria)</string>
+    <string name="vignoli_fortaleza">Vignoli Fortaleza (restaurante italiano)</string>
+    <string name="carneiro_do_ordones">Carneiro do Ordones - Varjota (restaurante)</string>
 </resources>
